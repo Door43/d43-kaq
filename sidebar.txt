@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kaq:home|Door43 (kaq)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kaq|d43-kaq repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kaq/archive/master.zip|d43-kaq.zip]]
+
+**Recent Changes**
+{{changes>ns = kaq}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kaq|Ethnologue data]]
+
